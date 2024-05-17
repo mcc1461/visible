@@ -8,6 +8,10 @@ This is a React application that is used to practice bootstrap button and alerts
 
 In this app; props, useState, onClick, onClose, bootstrap classes, and conditional rendering are used.
 
+## Gif
+
+![alt-text](./visibility.gif "Hover text")
+
 ## Installation
 
 1. Clone the repository: `git clone [repository URL]`

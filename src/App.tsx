@@ -54,7 +54,6 @@ const App = () => {
         onClick={() => {
           setVisible(true);
           setResult(true);
-          alert("button is clicked...");
         }}
         result={result}
       />
