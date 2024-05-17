@@ -1,3 +1,9 @@
-/* Bootstrap CSS is used for styling
+/* Bootstrap CSS is used for styling */
+* {
+    margin: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+
+}
 
 

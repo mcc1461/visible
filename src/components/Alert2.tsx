@@ -34,8 +34,6 @@ const Alert2  = ({ onClose, onClickCase, result }: Alert2Props) => {
               handleClick();
               onClose();
               !result  && alert("You clicked the close button...");
-              alert (!result)
-              
             }}
           ></button>
         </div>
