@@ -1,3 +1,17 @@
+/* 
+Here, we have a parent component App that contains two child components Button2 and Alert2.
+The Button2 component is used to show the Alert2 component when clicked.
+The Alert2 component is used to show an alert message when the button is clicked.
+The Alert2 component has two props: onClose and onClickCase.
+The onClose prop is used to close the alert message.
+The onClickCase prop is used to return the result of the button click.
+The Button2 component has two props: onClick and result.
+The onClick prop is used to show the alert message when the button is clicked.
+The result prop is used to return the result of the button click.
+The Alert2 component is used to change the color of the text based on the result of the button click.
+
+*/ 
+
 import React from "react";
 import Button2 from "./components/Button2";
 import Alert2 from "./components/Alert2";
